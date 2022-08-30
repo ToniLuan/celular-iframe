@@ -31,3 +31,12 @@ section#cel {
     width: 300px;
     background: url(../imagens/GalaxyA71.png) no-repeat;
 }
+
+iframe#tela {
+    position: relative;
+    border-radius: 15px;
+    top: 27px;
+    left: 18px;
+    width: 266px;
+    height: 590px;
+}
